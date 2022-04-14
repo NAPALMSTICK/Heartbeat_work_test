@@ -17,4 +17,5 @@ main_vline.addWidget(second_sign, alignment = Qt.AlignLeft)
 main_vline.addWidget(start_btn, alignment = Qt.AlignCenter)
 
 win.setLayout(main_vline)
+win.show()
 app.exec_()
