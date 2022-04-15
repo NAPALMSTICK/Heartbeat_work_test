@@ -3,7 +3,7 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QHBoxLayout, QVBoxLayout, QLabel, QPushButton
 app = QApplication([])
 win = QWidget()
-win.setWindowTitle("Тест Роршаха")
+win.setWindowTitle("Тест Руфье")
 win.resize(700,500)
 main_vline = QVBoxLayout()
 frist_sign = QLabel('Добро пожаловать в программу для определения состояния здоровья')
